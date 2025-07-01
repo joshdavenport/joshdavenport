@@ -2,7 +2,7 @@
 
 [![X](https://shields.io/badge/x-joshdprts-black?logo=twitter&style=for-the-badge)](https://x.com/joshdprts)
 
-[![Instagram](https://shields.io/badge/instagram-joshdprts-red?logo=instagram&style=for-the-badge)](https://instagram.com/joshdprts)
+[![Instagram](https://shields.io/badge/instagram-jdprts-red?logo=instagram&style=for-the-badge)](https://instagram.com/jprts)
 
 [![LinkedIn](https://shields.io/badge/linkedin-josh_davenport--smith-white?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/josh-davenport/)
 
