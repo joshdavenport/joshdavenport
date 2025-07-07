@@ -3,9 +3,12 @@
 Director & Lead Developer @ [tghp](https://www.tghp.co.uk/)
 
 ---
-[![Website](https://shields.io/badge/🌐-joshdavenport.co.uk-grey?logo=&style=for-the-badge)](https://www.joshdavenport.co.uk)
 
-[![🦋](https://shields.io/badge/joshdprts-lightsteelblue?logo=bluesky&style=for-the-badge)](https://bsky.app/profile/josh.davenportsmith.com)
+[![Website](https://shields.io/badge/joshdavenport.co.uk-black?logo=iterm2&style=for-the-badge)](https://www.joshdavenport.co.uk)
+
+---
+
+[![🦋](https://shields.io/badge/josh.davenportsmith.com-lightsteelblue?logo=bluesky&style=for-the-badge)](https://bsky.app/profile/josh.davenportsmith.com)
 
 [![X](https://shields.io/badge/joshdprts-black?logo=x&style=for-the-badge)](https://x.com/joshdprts)
 
