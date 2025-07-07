@@ -3,8 +3,11 @@
 Director & Lead Developer @ [tghp](https://www.tghp.co.uk/)
 
 ---
+[![Website](https://shields.io/badge/🌐-joshdavenport.co.uk-grey?logo=&style=for-the-badge)](https://www.joshdavenport.co.uk)
 
-[![X](https://shields.io/badge/x-joshdprts-black?logo=twitter&style=for-the-badge)](https://x.com/joshdprts)
+[![🦋](https://shields.io/badge/joshdprts-lightsteelblue?logo=bluesky&style=for-the-badge)](https://bsky.app/profile/josh.davenportsmith.com)
+
+[![X](https://shields.io/badge/joshdprts-black?logo=x&style=for-the-badge)](https://x.com/joshdprts)
 
 [![Instagram](https://shields.io/badge/instagram-jdprts-red?logo=instagram&style=for-the-badge)](https://instagram.com/jdprts)
 
@@ -12,4 +15,3 @@ Director & Lead Developer @ [tghp](https://www.tghp.co.uk/)
 
 [![Last.fm](https://shields.io/badge/last.fm-yoshagogo-red?logo=lastdotfm&style=for-the-badge)](https://www.last.fm/user/yoshagogo)
 
-[![Website](https://shields.io/badge/-website-grey?logo=&style=for-the-badge)](https://www.joshdavenport.co.uk)
